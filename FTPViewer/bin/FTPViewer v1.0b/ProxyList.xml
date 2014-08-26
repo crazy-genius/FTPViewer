@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ROOT
+	[
+  <!ELEMENT ROOT (SERVER)*>
+  <!ELEMENT SERVER (ID, ADDRESS, PORT, TYPE, AUTENT, LOGIN, PASS)>
+  <!ELEMENT ADDRESS (#PCDATA)>
+  <!ELEMENT PORT (#PCDATA)>
+  <!ELEMENT TYPE (#PCDATA)>
+  <!ELEMENT AUTENT (#PCDATA)>
+  <!ELEMENT LOGIN (#PCDATA)>
+  <!ELEMENT PASS (#PCDATA)>
+]
+>
+<!--File name: ProxyList.xml-->
+<ROOT>
+  <SERVER id="1">
+    <ADDRESS>41.66.242.18</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>NO</AUTENT>
+    <LOGIN></LOGIN>
+    <PAS></PAS>
+  </SERVER>
+  <SERVER id="2">
+    <ADDRESS>186.208.79.142</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>NO</AUTENT>
+    <LOGIN></LOGIN>
+    <PASS></PASS>
+  </SERVER>
+  <SERVER id="3">
+    <ADDRESS>117.3.68.159</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>NO</AUTENT>
+    <LOGIN></LOGIN>
+    <PASS></PASS>
+  </SERVER>
+  <SERVER id="4">
+    <ADDRESS>120.84.238.58</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>NO</AUTENT>
+    <LOGIN></LOGIN>
+    <PASS></PASS>
+  </SERVER>
+</ROOT>

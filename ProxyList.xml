@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ROOT[
+  <!ELEMENT ROOT (SERVER)*>
+  <!ELEMENT SERVER (ID, ADDRESS, PORT, TYPE, AUTENT, LOGIN, PASS)>
+  <!ELEMENT ADDRESS (#PCDATA)>
+  <!ELEMENT PORT (#PCDATA)>
+  <!ELEMENT TYPE (#PCDATA)>
+  <!ELEMENT AUTENT (#PCDATA)>
+  <!ELEMENT LOGIN (#PCDATA)>
+  <!ELEMENT PASS (#PCDATA)>
+]>
+<!--File name: ProxyList.xml-->
+<ROOT>
+  <SERVER ID="1">
+    <ADDRESS>41.66.242.18</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="2">
+    <ADDRESS>186.208.79.142</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="3">
+    <ADDRESS>117.3.68.159</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="4">
+    <ADDRESS>120.84.238.58</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="5">
+    <ADDRESS>85.185.45.248</ADDRESS>
+    <PORT>80</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="6">
+    <ADDRESS>186.208.79.142</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="7">
+    <ADDRESS>41.66.242.18</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="8">
+    <ADDRESS>117.3.68.159</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="9">
+    <ADDRESS>120.84.238.58</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="10">
+    <ADDRESS>202.51.178.114</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="11">
+    <ADDRESS>110.139.118.95</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="12">
+    <ADDRESS>94.200.67.54</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="13">
+    <ADDRESS>190.110.196.107</ADDRESS>
+    <PORT>3128</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="14">
+    <ADDRESS>211.141.85.18</ADDRESS>
+    <PORT>80</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="15">
+    <ADDRESS>219.143.207.140</ADDRESS>
+    <PORT>3128</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="16">
+    <ADDRESS>201.217.69.73</ADDRESS>
+    <PORT>8080</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="17">
+    <ADDRESS>78.187.56.215</ADDRESS>
+    <PORT>80</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="18">
+    <ADDRESS>123.183.220.126</ADDRESS>
+    <PORT>80</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+  <SERVER ID="19">
+    <ADDRESS>115.124.72.222</ADDRESS>
+    <PORT>3128</PORT>
+    <TYPE>0</TYPE>
+    <AUTENT>No</AUTENT>
+    <LOGIN>
+    </LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+</ROOT>

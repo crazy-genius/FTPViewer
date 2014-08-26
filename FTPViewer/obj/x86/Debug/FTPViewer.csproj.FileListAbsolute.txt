@@ -1,0 +1,12 @@
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\obj\x86\Debug\FTPViewer.FTPViewer.resources
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\obj\x86\Debug\FTPViewer.Properties.Resources.resources
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\bin\Debug\FTPViewer.exe
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\bin\Debug\FTPViewer.pdb
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\obj\x86\Debug\FTPViewer.exe
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\obj\x86\Debug\FTPViewer.pdb
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\obj\x86\Debug\FTPViewer.SettingsEditor.resources
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\bin\Debug\FTPServersList.xml
+C:\Documents and Settings\a.minkin\Мои документы\Visual Studio 2010\Projects\FTPViewer\FTPViewer\bin\Debug\ProxyList.xml

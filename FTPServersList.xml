@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ROOT[
+  <!ELEMENT ROOT (SERVER)*>
+  <!ELEMENT SERVER (ID, ADDRESS, PORT, SRVDIR, FILE, LOGIN, PASS)>
+  <!ELEMENT ADDRESS (#PCDATA)>
+  <!ELEMENT PORT (#PCDATA)>
+  <!ELEMENT SRVDIR (#PCDATA)>
+  <!ELEMENT FILE (#PCDATA)>
+  <!ELEMENT LOGIN (#PCDATA)>
+  <!ELEMENT PASS (#PCDATA)>
+]>
+<!--File name: FTPServerList.xml-->
+<ROOT>
+  <SERVER ID="1">
+    <ADDRESS>ftp.dlink.ru</ADDRESS>
+    <PORT>21</PORT>
+    <SRVDIR>/pub/Router/DIR-620/Firmware/RevA/</SRVDIR>
+    <FILE>20120723_1636_DIR_620_1.4.0_sdk-0.7.bin</FILE>
+    <LOGIN>anonymous</LOGIN>
+    <PAS>
+    </PAS>
+  </SERVER>
+</ROOT>

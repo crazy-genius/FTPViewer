@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ROOT
+	[
+  <!ELEMENT ROOT (SERVER)*>
+  <!ELEMENT SERVER (ID, ADDRESS, PORT, SRVDIR, SAVEDIR, FILE, LOGIN, PASS)>
+  <!ELEMENT ADDRESS (#PCDATA)>
+  <!ELEMENT PORT (#PCDATA)>
+  <!ELEMENT SRVDIR (#PCDATA)>
+  <!ELEMENT SAVEDIR (#PCDATA)>
+  <!ELEMENT FILE (#PCDATA)>
+  <!ELEMENT LOGIN (#PCDATA)>
+  <!ELEMENT PASS (#PCDATA)>
+]
+>
+<!--File name: FTPServerList.xml-->
+<ROOT>
+  <SERVER id="1">
+    <ADDRESS>82.162.90.178</ADDRESS>
+    <PORT>21</PORT>
+    <SRVDIR>/</SRVDIR>
+    <FILE>test.txt</FILE>
+    <LOGIN>tester</LOGIN>
+    <PASS>tester</PASS>
+    <SAVEDIR>c:\#FTP</SAVEDIR>
+  </SERVER>
+</ROOT>

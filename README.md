@@ -5,5 +5,9 @@ Simple FTP over Proxy
 ## Requirements:
  Microsoft Visual C Runtime 2010 or above, Microsoft .Net Framework 4.0 or above
  
-## How to use:
- Just put in any folder open in you Microsoft Visual C# and compele
+## How to install:
+ 1. Download programm and unarcheve
+ 2. Just put in any folder
+ 3. Open in you Microsoft Visual C# and compele
+ 
+## How to use programm:

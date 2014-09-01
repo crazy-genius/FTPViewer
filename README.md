@@ -12,7 +12,7 @@ Simple FTP over Proxy
  
 ## How to use programm:
 
-## Programm fitures:
+## Programm functions:
  Program have a console interface for automatization purpose.
  
  Please read command list below:

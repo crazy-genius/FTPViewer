@@ -11,3 +11,12 @@ Simple FTP over Proxy
  3. Open in you Microsoft Visual C# and compele
  
 ## How to use programm:
+
+## Programm fitures:
+ Program have a console interface for automatization purpose.
+ 
+ Please read command list below:
+ - help or ? or \h - Show help
+ - start start auto download (will auto closed after complete download's)
+ - select all Ftp sources from list
+
